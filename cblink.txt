@@ -1,1 +1,1 @@
-google.com
+https://github.com/mrbarcode/CB2/raw/main/dll.zip
